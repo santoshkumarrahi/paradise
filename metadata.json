@@ -1,0 +1,6 @@
+{
+  "name": "PakHostel - Complete Hostel Booking & Management System",
+  "description": "Comprehensive hostel booking, resident management, Pakistani payments (JazzCash, Easypaisa, Bank Transfer), complaint ticketing, and official emergency & police escalation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
